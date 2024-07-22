@@ -1,5 +1,5 @@
-import { client } from "@/sanity/lib/client"
 import { interskills } from "@/types/interfaces"
+import { client } from "@lib/client"
 
 export const LibSkills = async () => {
 
