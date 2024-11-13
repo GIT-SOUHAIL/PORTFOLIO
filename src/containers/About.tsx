@@ -24,8 +24,8 @@ export const Aboutsection = () => {
             </DirectionAwareHover>
             </div>
            <div className=" md:w-[450px] lg:w-[630px] xl:w-[700px] text-black/70  ">
-             <p className="">I m Souhail, a Skilled Front End Developer specializing in React.js,
-                TypeScript, and Next.js. I have a strong passion for modern design
+             <p className="">I m Souhail, a Skilled Full Stack Developer specializing in React.js,
+                TypeScript, and Next.js Node.js , Exoress, Mongodb. I have a strong passion for modern design
                 principles and utilize Tailwind CSS and Shadcn UI to create intuitive
                 and responsive web applications. My expertise lies in translating design
                 concepts into functional user interfaces that prioritize both usability

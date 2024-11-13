@@ -43,7 +43,7 @@ export default function Content() {
           <div>MOUGRANE</div>
        </div> 
        <div className='text-center sm:-mt-[3rem]' >
-       <a href="mailto:souhailmougrane@gmail.com" target='_blank' className={ cn( buttonVariants({variant:'outline'}) , 'text-[10px] md:text-[12px] lg:text-[14px] xl:text-[16px] text-center bg-yellow-500' ) }>
+       <a href="mailto:souhailmagran63@gmail.com" target='_blank' className={ cn( buttonVariants({variant:'outline'}) , 'text-[10px] md:text-[12px] lg:text-[14px] xl:text-[16px] text-center bg-yellow-500' ) }>
         <SwapText initialText='Contact Me' finalText='Lets Connect' textClassName='text-white' />
        </a>
        </div>

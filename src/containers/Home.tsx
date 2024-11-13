@@ -25,7 +25,7 @@ export const Homesection = () => {
            {/* */}
            <div className=" relative">
             <div className=" absolute right-0 lg:-top-5 ">
-            <SplitText text="FRONT END &"  className=" right-0 "/>               
+            <SplitText text="FULL STACK &"  className=" right-0 "/>               
             </div>
            </div>
 
@@ -47,7 +47,7 @@ export const Homesection = () => {
           transition={{duration:0.7}}
           className="flex flex-col md:flex-row gap-[2rem] justify-between items-center mt-[87vh] sm:mt-[44vh] md:mt-[50vh] lg:mt-[40vh] xl:mt-[65vh]">
             <p className="flex flex-col">Passionate about crafting <span className="">unforgettable experiences.</span></p>
-            <a href="/cv/souhail mougrane cv .pdf" download={true} className="xl:mr-[4rem] group">
+            <a href="/cv/CV__SOUHAIL_MOUGRANE.pdf" download={true} className="xl:mr-[4rem] group">
             <Button variant={"outline"} className="flex items-center justify-between gap-4 group">
             <span><SwapText initialText='DOWNLOAD CV' finalText='LETS DOWNLOAD' textClassName='text-black/50 group-hover:text-white' /></span>
             <ArrowDownToLine width={20} height={20} className="stroke-black/50  group-hover:stroke-white "/>
